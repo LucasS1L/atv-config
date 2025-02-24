@@ -8,3 +8,11 @@ git add .
 git commit -m "adiciona readme"
 git push --set upstream origin main
 ```
+
+# Segundo commit
+
+```bash
+git add .
+git commit -m "atualiza readme"
+git push
+```
