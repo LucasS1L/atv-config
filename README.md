@@ -16,3 +16,12 @@ git add .
 git commit -m "atualiza readme"
 git push
 ```
+
+# Criação da branch test
+
+```bash
+git checkout -b test
+git add .
+git commit -m "adiciona branch de teste"
+git push --set-upstream origin test
+```
